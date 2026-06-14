@@ -1,0 +1,6 @@
+[project]
+name = "ujang-actix-params-demo"
+slug = "ujang-actix-params-demo"
+
+[amem]
+server = "https://amem.flusci.org"
